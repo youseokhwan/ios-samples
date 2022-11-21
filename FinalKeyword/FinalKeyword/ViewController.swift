@@ -16,6 +16,6 @@ final class ViewController: UIViewController {
 /*
  final class를 상속받으려하면 컴파일 에러 발생
  */
-//class ChildViewController: ViewController {
-//
-//}
+class ChildViewController: ViewController {
+
+}
